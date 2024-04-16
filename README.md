@@ -26,3 +26,14 @@ This project aims to provide a comprehensive solution for plant health managemen
 1. Clone the repository:
    ```bash
    git clone https://github.com/Srivastava0109Yash/AI-Assissted-Plant-Disease-Detection-Crop-and-Fertilizer-Recommender-System.git
+
+2. Install Dependencies :
+   ```bash
+   pip install -r requirements.txt
+
+## Run Application :
+   ```bash
+   python app.py
+
+
+
